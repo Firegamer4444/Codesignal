@@ -1,4 +1,4 @@
-# CodeSignal Java Exercises
+# CodeSignal 
 
 Este repositorio contiene una colección de los ejercicios que he resuelto en la plataforma **CodeSignal** utilizando **Java**. Cada ejercicio está organizado en paquetes que corresponden a las diferentes secciones de la plataforma, y los nombres de las clases corresponden a los títulos de los ejercicios en CodeSignal. Además, se incluyen los **test unitarios** proporcionados por la propia plataforma para verificar la corrección de los ejercicios.
 
